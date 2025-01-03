@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "A personal portfolio website to showcase projects and skills.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "live-server src",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "personal",
+    "projects"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "live-server": "^1.2.1"
+  }
+}
