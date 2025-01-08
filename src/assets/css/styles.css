@@ -142,6 +142,46 @@ footer a:hover {
     text-decoration: underline;
 }
 
+.about-me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: #f9f9f9;
+}
+
+.about-me-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 800px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.my-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.about-me-text {
+    max-width: 600px;
+}
+
+.about-me-text h1 {
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+.about-me-text p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .container {
