@@ -1,7 +1,7 @@
-# Portfolio Website
+# layout of portfolio Website
 
 This is a portfolio website project that showcases individual work and skills. It is structured to provide a clean and responsive design with interactive elements.
-### Here is my website:https://ansh-dhanani.github.io/myportfolio.github.io/
+### Here is live demo :https://ansh-dhanani.github.io/myportfolio.github.io/
 
 ## Project Structure
 
