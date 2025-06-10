@@ -1,6 +1,7 @@
 # layout of portfolio Website
 
-This is a portfolio website project that showcases individual work and skills. It is structured to provide a clean and responsive design with interactive elements.
+This is a sample portfolio website project that showcases individual work and skills. It is structured to provide a clean and responsive design with interactive elements.
+###this is my starting of web dev (and its going well).
 ### Here is live demo :https://ansh-dhanani.github.io/myportfolio.github.io/
 
 ## Project Structure
